@@ -1,6 +1,6 @@
 ### Hi, I'm Ifran! 👓 
 ![Gif of learning](https://github.com/ifran-rahman/ifran-rahman/blob/master/images/learnign.gif)
-- 🔭 I’m currently studying CSE at North South University, Bangladesh  
+- 🔭 I’m currently studying CSE at North South University, Bangladesh.  
 - 🌱 I’m currently learning Neural Network.
 - 📱 Currently working on a Mobile app project.
 - 💙 Interested in Mobile application development and Artificial intelligence.

@@ -1,4 +1,4 @@
-### I'm Ifran! 👓 
+### Hi, I'm Ifran! 👓 
 ![Gif of learning](https://github.com/ifran-rahman/ifran-rahman/blob/master/images/learnign.gif)
 - 🔭 I’m currently studying CSE at North South University, Bangladesh  
 - 🌱 I’m currently learning Neural Network.

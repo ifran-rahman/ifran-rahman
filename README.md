@@ -2,7 +2,7 @@
 ![Gif of learning](https://github.com/ifran-rahman/ifran-rahman/blob/master/images/learnign.gif)
 - 🔭 Fresh Graduate. Completed BS in CSE from North South University, Bangladesh.  
 - 🌱 Currently working on an OCR and a biomedical project.
-- 💙 Interested in Deep neural network and Mobile application development.
+- 💙 Interested in Deep Learning and Mobile application development.
 - 📫 How to reach me:  <br>
                           <br>
   [![L](https://github.com/ifran-rahman/ifran-rahman/blob/master/images/Icon-40%20(l).png)](https://www.linkedin.com/in/ifran-rahman-nijhum-1421b8179//) [![F](https://github.com/ifran-rahman/ifran-rahman/blob/master/images/Icon-40.png)](https://www.facebook.com/ifran.rahman.7/) 

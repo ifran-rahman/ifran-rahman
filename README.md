@@ -5,4 +5,5 @@
 💙 Interested in Deep Learning Application and Mobile application development. <br/> 
 📫 Website:  https://ifranrahmannijhum.streamlitapp.com/ <br>
      <br>
- [![L](https://github.com/ifran-rahman/ifran-rahman/blob/master/images/Icon-40%20(l).png)](https://www.linkedin.com/in/ifran-rahman-nijhum-1421b8179//) [![F](https://github.com/ifran-rahman/ifran-rahman/blob/master/images/Icon-40.png)](https://www.facebook.com/ifran.rahman.7/)
+ [![L](https://github.com/ifran-rahman/ifran-rahman/blob/master/images/Icon-40%20(l).png)](https://www.linkedin.com/in/ifran-rahman-nijhum-1421b8179//) 
+ [![F](https://github.com/ifran-rahman/ifran-rahman/blob/master/images/Icon-40.png)](https://www.facebook.com/ifran.rahman.7/)
